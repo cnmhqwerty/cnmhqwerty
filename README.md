@@ -1,3 +1,4 @@
+[![My Skills](https://skillicons.dev/icons?i=C#,C++,Unity,Unreal,Python,.NET)](https://skillicons.dev)
 
 - 🔭 I’m currently working on an eye tracked blindness simulation experience using the Quest Pro.
 - 🌱 I’m currently learning Javascript for web development.
