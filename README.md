@@ -7,8 +7,9 @@
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I have a very large lanyard collection.
   
+![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561198118770972&show_recent_game_bg=true&show_in_game_bg=true)
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=trooper6199&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=trooper6199&redirect=true)
-![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=<76561198118770972>&show_in_game_bg=true)
 
 
 <h1>Git Stats</h1>
