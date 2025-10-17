@@ -1,8 +1,11 @@
 <div align="center">
 <a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=30fff8&text=About&nbsp;Me">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=30fff8&text=About+Me">
 </a>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cnmhqwerty&theme=monokai&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div>
 <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=cnmhqwerty" />
