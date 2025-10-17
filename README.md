@@ -25,7 +25,7 @@
   </a></p>
   <hr/>
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always+starting+something+new...." />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+starting+something+new....;Dreaming+up+my+next+project....;Working+on+my+backlog....;Craving+a+hot+chocolate...." />
 </a>
 </div>
 
