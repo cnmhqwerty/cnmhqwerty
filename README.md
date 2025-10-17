@@ -3,8 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=30fff8&text=About+Me">
 </a>
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cnmhqwerty&theme=monokai&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<section align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=cnmhqwerty&theme=monokai&rank=S,AAA,AA,A,B,C&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) <img text-align="bottom" width="100" height="100" alt="Trans Flag" src="https://github.com/user-attachments/assets/6b50e2cf-e01b-4e34-835f-5e438958eb57" />
+</section>
 
 <div>
 <a href="https://github.com/anuraghazra/convoychat">
