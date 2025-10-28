@@ -13,7 +13,7 @@
       <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=cnmhqwerty" />
 </a>
   
-- 🔭 I’m currently working on an eye tracked blindness simulation experience using the Quest Pro.
+- 🔭 About to start working at [BetaJester](https://github.com/BetaJester-Ltd).
 - 🌱 I’m currently learning Javascript for web development.
 - 💬 Ask me about my cats.
 - 📫 How to reach me: CazTheGhost@proton.me
